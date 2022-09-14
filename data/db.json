@@ -1,4 +1,10 @@
 {
   "todos": [
+    {
+      "owner": "b8944f3a-d28b-4339-81c9-f2301ef7c262",
+      "id": "ocTjfYr4wiKsjiT5iqz4m",
+      "name": "Complete API add item test",
+      "completed": true
+    }
   ]
 }
